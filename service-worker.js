@@ -3,8 +3,8 @@ const CORE_ASSETS = [
     './USMLE Simulator.html',
     './manifest.json',
     './service-worker.js',
-    './icons/icon-192x192.png',
-    './icons/icon-512x512.png',
+    './icon-192x192.png',
+    './icon-512x512.png',
     './js/pdf.min.js',       // PDF.js core library
     './js/pdf.worker.min.js', // PDF.js worker
     './js/script.js',        // Your own JS files if you have any
