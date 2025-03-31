@@ -1,6 +1,6 @@
 const CACHE_NAME = 'usmle-simulator-v4';
 const CORE_ASSETS = [
-    './USMLE Simulator.html',
+    './index.html',
     './manifest.json',
     './service-worker.js',
     './icon-192x192.png',
